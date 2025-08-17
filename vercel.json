@@ -1,0 +1,9 @@
+{
+  "framework": "nextjs",
+  "buildCommand": "next build",
+  "devCommand": "next dev",
+  "installCommand": "pnpm i || npm i || yarn",
+  "env": {
+    "OPENAI_API_KEY": ""
+  }
+}

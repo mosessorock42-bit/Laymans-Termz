@@ -1,0 +1,15 @@
+# dependencies
+/node_modules
+
+# production
+/.next
+/out
+
+# misc
+.DS_Store
+.env*
+!.env.local.example
+npm-debug.log*
+pnpm-debug.log*
+yarn-debug.log*
+yarn-error.log*
